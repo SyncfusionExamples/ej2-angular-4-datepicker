@@ -1,7 +1,8 @@
 # EJ2 Angular 4 DatePicker Quick Start
 A quick start project that helps you to create the Syncfusion Angular 4 DatePicker.
 
-![Angular 4 DatePicker](angular4datepicker.png)
+
+![Angular 4 DatePicker](angular4datepicker.png "Angualar 4 Datepicker")
 
 This is a Angular 4 project generated using [Angular CLI](https://github.com/angular/angular-cli) version 1.4.10. The Datepicker features included in this project are as follows.
 * Min - Starting date that can be selected.
@@ -14,7 +15,7 @@ To run this application, you need to first clone the `ej2-angular-4-datepicker` 
 To do so, open the command prompt and run the below commands one after the other.
 
 ```
-git clone https://github.com/SyncfusionSamples/ej2-ej2-angular-4-datepicker ej2-angular-4-datepicker
+git clone https://github.com/SyncfusionSamples/ej2-angular-4-datepicker ej2-angular-4-datepicker
 cd ej2-angular-4-datepicker
 ```
 
