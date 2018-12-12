@@ -1,5 +1,5 @@
 # EJ2 Angular 4 DatePicker Quick Start
-This example demonstrates the usage of DatePicker in Angular 4 application.   https://www.syncfusion.com/angular-ui-components/datepicker
+A quick start project that helps you to create the Syncfusion Angular 4 DatePicker.
 
 ![Angular 4 DatePicker](angular4datepicker.png)
 
