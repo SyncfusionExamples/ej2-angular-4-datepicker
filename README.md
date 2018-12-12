@@ -1,6 +1,7 @@
-# ej2-angular-4-datepicker
+# EJ2 Angular 4 DatePicker Quick Start
 This example demonstrates the usage of DatePicker in Angular 4 application.   https://www.syncfusion.com/angular-ui-components/datepicker
 
+![Angular 4 DatePicker](angular4datepicker.png)
 
 This is a Angular 4 project generated using [Angular CLI](https://github.com/angular/angular-cli) version 1.4.10. The Datepicker features included in this project are as follows.
 * Min - Starting date that can be selected.

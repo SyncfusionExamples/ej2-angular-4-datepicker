@@ -31,7 +31,6 @@ export class AppComponent {
     span.setAttribute('class', 'e-icons highlight');
     args.element.firstElementChild.setAttribute('title', name + '!');
     addClass([args.element], ['e-day', 'special', name.toLowerCase()]);
-    args.element.setAttribute('data-val', name + '!');
     args.element.setAttribute('title', name + '!');
     args.element.appendChild(span);
   }
