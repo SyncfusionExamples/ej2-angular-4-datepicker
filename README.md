@@ -2,7 +2,7 @@
 A quick start project that helps you to create the Syncfusion Angular 4 DatePicker.
 
 
-![Angular 4 DatePicker](angular4datepicker.png "Angualar 4 Datepicker")
+![Angular 4 DatePicker](angular4datepicker.png "Angualar 4 Datepicker")*Angular 4 DatePicker*
 
 This is a Angular 4 project generated using [Angular CLI](https://github.com/angular/angular-cli) version 1.4.10. The Datepicker features included in this project are as follows.
 * Min - Starting date that can be selected.
@@ -32,3 +32,5 @@ Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app w
 ## Further help
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
+
+<style> img + em { display: block; text-align: center;}</style>
