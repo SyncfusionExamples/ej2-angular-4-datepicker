@@ -3,7 +3,6 @@ A quick start project that helps you to create the Syncfusion Angular 4 DatePick
 
 
 ![Angular 4 DatePicker](angular4datepicker.png "Angualar 4 Datepicker")
-<p align="center">Angular 4 DatePicker</p>
 
 This is a Angular 4 project generated using [Angular CLI](https://github.com/angular/angular-cli) version 1.4.10. The Datepicker features included in this project are as follows.
 * Min - Starting date that can be selected.
